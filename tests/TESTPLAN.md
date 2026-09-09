@@ -1,14 +1,22 @@
 # Test Cases
 
 
-TC01 - No arguments/n
-loganalyze/n/n
+TC01 - No arguments  
 
-TC02 - Valid Directory/n
-loganalyze ~/HW2/data/n/n
+loganalyze  
 
-TC03 - Invalid Directory/n
-loganalyze ~/HW2/datata/n/n
 
-TC04 - Too many arguments/n
-loganlyze ~/HW2/data AnotherArg/n/n
+TC02 - Valid Directory  
+
+loganalyze ~/HW2/data/  
+
+
+TC03 - Invalid Directory  
+
+loganalyze ~/HW2/datata  
+
+
+TC04 - Too many arguments  
+
+loganlyze ~/HW2/data AnotherArg  
+
