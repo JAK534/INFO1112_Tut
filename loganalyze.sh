@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+#comment #0
 #Bingo BongoComment
 
 #Determine directory to analyse
