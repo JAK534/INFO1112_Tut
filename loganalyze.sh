@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+#Bingo BongoComment
+
 #Determine directory to analyse
 if [ "$#" -eq 0 ]; then
     TARGET_DIR="$(pwd)"
